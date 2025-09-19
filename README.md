@@ -1,2 +1,2 @@
 # sol
-a light game site
+a light educational game site

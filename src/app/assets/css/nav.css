@@ -41,12 +41,13 @@ nav a:hover {
     transform: translateY(-5px);
 }
 
-nav a i {
-    font-size: 25px;
+nav a svg {
+    width: 35px;
+    height: 35px;
     transition: all 0.3s ease;
 }
 
-nav a:hover i {
+nav a:hover svg {
     transform: scale(1.1);
     color: #ffffff;
 }
