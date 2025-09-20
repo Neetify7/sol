@@ -8,7 +8,7 @@ export default function Home() {
         <h1>Pen Academy</h1>
         <p>a academy for school enthusiasts alike</p>
         <br></br>
-        <a href="/demo" className="closed"><p>CLOSED BETA</p></a>
+        <a href="/study" className="closed"><p>CLOSED BETA</p></a>
         <br></br>
         <br></br>
         <div className="group">
